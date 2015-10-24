@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_url">Insert the server\'s url</string>
+    <string name="label_route">Route service</string>
+    <string name="button_start">Start service</string>
+</resources>
